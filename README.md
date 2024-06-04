@@ -1,5 +1,6 @@
 # imgeditor
-![Screenshot_2024-06-04-14-09-51-71_cc758f0ccba18c1bc2852b96d511bf4d](https://github.com/WednesdaySP/imgeditor/assets/122176467/e5362d2e-8f9a-47f8-b950-39f95dd650c1)
+<img src="https://github.com/WednesdaySP/imgeditor/assets/122176467/e5362d2e-8f9a-47f8-b950-39f95dd650c1" width="300">
+
 
 
 ![Screenshot_2024-06-04-14-10-54-26_cc758f0ccba18c1bc2852b96d511bf4d](https://github.com/WednesdaySP/imgeditor/assets/122176467/ad93d8f5-9b96-4c0d-bc05-078db6a30b30)
