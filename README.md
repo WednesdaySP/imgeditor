@@ -1,9 +1,17 @@
 # imgeditor
+![Screenshot_2024-06-04-14-09-51-71_cc758f0ccba18c1bc2852b96d511bf4d](https://github.com/WednesdaySP/imgeditor/assets/122176467/e5362d2e-8f9a-47f8-b950-39f95dd650c1)
 
-![IMG-20240531-WA0004](https://github.com/WednesdaySP/imgeditor/assets/122176467/221b1e3b-e815-4670-bdac-20ec11db2d4f)
-![IMG-20240531-WA0003](https://github.com/WednesdaySP/imgeditor/assets/122176467/a6046f04-308e-4f29-bcb6-84e970dbbe2f)
 
-![IMG-20240531-WA0005](https://github.com/WednesdaySP/imgeditor/assets/122176467/264b117c-7525-4bee-8334-5bc27ff68290)
+![Screenshot_2024-06-04-14-10-54-26_cc758f0ccba18c1bc2852b96d511bf4d](https://github.com/WednesdaySP/imgeditor/assets/122176467/ad93d8f5-9b96-4c0d-bc05-078db6a30b30)
+
+
+![Screenshot_2024-06-04-14-11-33-34_cc758f0ccba18c1bc2852b96d511bf4d](https://github.com/WednesdaySP/imgeditor/assets/122176467/41bb2c7e-8d43-4440-aa95-0d227256d8f2)
+
+![Screenshot_2024-06-04-14-11-49-34_cc758f0ccba18c1bc2852b96d511bf4d](https:/![Screenshot_2024-06-04-14-12-10-51_cc758f0ccba18c1bc2852b96d511bf4d](https://github.com/WednesdaySP/imgeditor/assets/122176467/a8b554d9-3150-4259-9774-639a4158ba34)
+/github.com/WednesdaySP/imgeditor/assets/122176467/fbd435a8-d3a5-4605-b06b-65c9e937da37)
+
+![IMG-2024053![Uploading Screenshot_2024-06-04-14-12-42-43_cc758f0ccba18c1bc2852b96d511bf4d.jpg…]()
+1-WA0005](https://github.com/WednesdaySP/imgeditor/assets/122176467/264b117c-7525-4bee-8334-5bc27ff68290)
 ![IMG-20240531-WA0006](https://github.com/WednesdaySP/imgeditor/assets/122176467/a08d713f-77c5-4b3c-978e-706ee73be62f)
 ![IMG-20240531-WA0007](https://github.com/WednesdaySP/imgeditor/assets/122176467/8c71a5ee-e6f4-495d-b6c3-63124be824f5)
 ![IMG-20240531-WA0008](https://github.com/WednesdaySP/imgeditor/assets/122176467/e2c3dd78-1a5b-44fa-a975-c9d60e9f3c8a)
